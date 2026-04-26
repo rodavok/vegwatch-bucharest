@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+.cache/
+*.json
+!package.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/

@@ -27,9 +27,15 @@ docs/
 ```
 
 ## Running the Dashboard
+
+Local:
 ```bash
 .venv/bin/streamlit run src/dashboard.py
 ```
+
+Deployed: Streamlit Community Cloud
+- Repo: github.com/rodavok/vegwatch-bucharest
+- Main file: src/dashboard.py
 
 ## Data Sources
 

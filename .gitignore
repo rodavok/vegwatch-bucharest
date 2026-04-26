@@ -3,10 +3,11 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-data/
+# data/  # uncommented to allow deployment
 .cache/
 *.json
 !package.json
+!data/*.json
 
 # IDE
 .vscode/

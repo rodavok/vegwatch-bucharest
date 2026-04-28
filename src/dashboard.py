@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "bucharest_vegetarian_analysis.json"
 
-st.set_page_config(page_title="VegWatch Bucharest", layout="wide")
+st.set_page_config(page_title="Bucharest VegWatch", layout="wide")
 
 @st.cache_data
 def load_data():
@@ -16,7 +16,7 @@ def load_data():
 
 df = load_data()
 
-st.title("VegWatch Bucharest")
+st.title("Bucharest VegWatch")
 st.markdown("Analyzing vegetarian option mentions across Bucharest restaurants")
 
 # Sidebar filters

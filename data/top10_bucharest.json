@@ -1,0 +1,792 @@
+[
+  {
+    "name": "Restaurant Hanu' lui Manuc",
+    "rating": 4.7,
+    "total_reviews": 50471,
+    "address": "Str. Franceză 62-64, 030106 București, Romania",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4297202,
+      "lng": 26.1023053
+    },
+    "reviews": [
+      {
+        "author_name": "Amber",
+        "author_url": "https://www.google.com/maps/contrib/112302192657428740964/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8idqDlH-A-ktvLpmgb3H82A9lTbVsL6iiOt5F_ANS_WY7Tw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We really enjoyed our experience here! If you’re looking for a place with good seating, views, and traditional food, come here. We fully embraced the experience and had an awesome time. The servers are kind, will explain things in english (or at least try to!) and the menu is also in English and Romanian. They have the story of the establishment in the menu, which we liked reading about. The seating is SO CUTE. They had indoor seating but who wants that? Pick outdoor! They had heating lamps and blankets and SO many adorable cats! Make sure to give the cats a little bite of your food if you can. The drinks were good, and we enjoyed trying the traditional food, which was very flavorful. Overall, we would be back!",
+        "time": 1772812250,
+        "translated": false
+      },
+      {
+        "author_name": "Michael is hungry!",
+        "author_url": "https://www.google.com/maps/contrib/109632815225975640881/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAaJSSuJHQra7v1YuYyPFocIj3_xkUY0FKl7BlUqFkYrtFx9E=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "2 months ago",
+        "text": "This restaurant appears to cater primarily to tourists seeking a novelty experience rather than quality dining.\nThe food was clearly pre-prepared and arrived at the table lukewarm. We ordered our meals at the same time as a bottle of wine, and the dishes were served within approximately three minutes — effectively at the same moment the wine was poured. This timing strongly suggests the meals were not prepared to order.\nGiven the pricing, the quality was disappointing. The dishes resembled reheated, mass-produced fare lacking freshness, flavor, or distinction.\nThe live band and dancers provided entertainment, though the performance felt routine and mechanical, as if repeated nightly without much enthusiasm.\nService was inconsistent. Our waitress was largely unavailable during the meal and slow to respond when needed. At payment, however, she became quite assertive — insisting on a specific minimum tip amount. This was particularly uncomfortable given that communication was limited, as she spoke no English in what is clearly a tourist-oriented establishment.\nOverall, the experience did not justify the cost. Unless one’s goal is simply to check off a themed dining experience regardless of food quality or service standards, there are likely far better options available.",
+        "time": 1771835789,
+        "translated": false
+      },
+      {
+        "author_name": "Melih Atabek",
+        "author_url": "https://www.google.com/maps/contrib/113560214767178378153/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuqwhXwQaqWecONATVr1VU59dvBsjZdoPQEEPkdSH-Q2o8vcM8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Hanu’ lui Manuc is a charming and atmospheric place to experience traditional Romanian cuisine, especially if you enjoy historic settings with character and local flavor. The restaurant has a unique ambiance that reflects the cultural heritage of the area, making it an appealing spot for both tourists and locals who want an authentic dining experience.\n\nHowever, our visit started with a small disappointment. Despite having a reservation, we were redirected to a different table than expected, which felt a bit unprofessional and took away from the initial impression. Additionally, the Greek salad was quite underwhelming and did not live up to its name or typical flavor profile.\n\nOn a more positive note, the main dishes were much more satisfying. The lamb stew was very well prepared, rich in flavor, and perfectly balanced in texture and seasoning. The Angus burger was another highlight — juicy, flavorful, and cooked just right, making it a great option even if you’re not in the mood for traditional dishes.\n\nA special mention goes to our waiter, who was extremely helpful, attentive, and polite. His friendly attitude and willingness to assist significantly improved our overall experience and made us feel welcome despite the earlier inconvenience.\n\nMRS MARIA is best to make our dinner\nthank you to her\n\nIn general, Hanu’ lui Manuc is a good choice if you want to explore Romanian cuisine in a historic and authentic environment. With some improvements in reservation handling and consistency in certain dishes, it has the potential to offer an even better dining experience.",
+        "time": 1769794860,
+        "translated": false
+      },
+      {
+        "author_name": "Ramona Voda",
+        "author_url": "https://www.google.com/maps/contrib/115909035204728854741/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy2UnGMpQntsh_PljkSKSkN8-ueFi5WqO__Dee5r0psMePbQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The food was absolutely delicious from start to finish. Every dish was full of flavor, beautifully presented, and clearly made with fresh, high-quality ingredients. You can really taste the care and attention that goes into the cooking — everything was perfectly prepared and exceeded our expectations.\n\nThe service made the experience even better. Our waitress, Iulia Dorobantu, was incredibly lovely, friendly, and attentive throughout the entire meal. She made us feel welcome right away, checked in at just the right moments, and had such a positive, professional attitude. Her warm personality truly added to the atmosphere and made our visit extra enjoyable.\n\nOverall, it was a wonderful dining experience with fantastic food and outstanding service. We’ll definitely be coming back and would highly recommend this place to others!",
+        "time": 1769891985,
+        "translated": false
+      },
+      {
+        "author_name": "Stergios Mantarlis",
+        "author_url": "https://www.google.com/maps/contrib/118300147028163618091/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtSHbyd20btV1rXXAxsbLlp7h81MJADqZvQflKfosWZE4WPOv5eQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "I was told that this is the best place to eat in the old town. The restaurant is huge, and you can see the personnel constantly passing by.\n\nAs for the food, the Caesar salad was the worst salad I have ever tasted in my life. Lemon and fish were mixed with the ingredients of the Caesar salad, which completely ruined it. The lamb was tasty but served at room temperature — it should have been at least warm.\n\nI read the reviews to understand why the rating is so high, but I’m sorry to disappoint you — this place deserves a maximum of 3.",
+        "time": 1771867235,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Radisson Blu Hotel Bucharest",
+    "rating": 4.6,
+    "total_reviews": 15461,
+    "address": "Calea Victoriei 63-81, 010065 București, Romania",
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "lodging",
+      "parking",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.441334,
+      "lng": 26.0943887
+    },
+    "reviews": [
+      {
+        "author_name": "medlux plus",
+        "author_url": "https://www.google.com/maps/contrib/104092134528793017763/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLLQEh7vLIH12XP0mDx0cJqrKa-c_qq8LhykcnmjlmB3OLXTVe=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "★★★★★\nWe are currently staying at Edison Blue in Bucharest, and we’re genuinely impressed by the level of care and professionalism throughout the hotel.\n\nFirst of all, a big thank you to the hotel management and the entire team, especially the staff at the reception and information desk — they respond quickly, handle any request with ease, and always do it in a friendly, respectful way. The hotel is clean, well organized, and the spa is absolutely amazing — a perfect place to truly relax.\n\nAnd a special thank you to the Business Lounge, especially Claudia. Today she made our visit feel truly special — warm attention, great service, and beautifully prepared pancakes served with real care and detail. That kind of hospitality stays with you.\n\nThank you again to everyone at Edison Blue for creating such a welcoming experience. Highly recommended.",
+        "time": 1771061174,
+        "translated": false
+      },
+      {
+        "author_name": "Colin Dean",
+        "author_url": "https://www.google.com/maps/contrib/101743005024685766338/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXMR7gh0jcxSZAOY41D6sOJm4uCEzctEQg15-oGa91p4Q3nZy5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I am currently staying in Bucharest at the Raddison Blu, and the experience has been fantastic. I was meant to be staying on a local Airbnb but had to leave due to cleanliness. I went to the Raddison and the team were brilliant. Aysha is a credit to the organisation. She was polite, friendly and pressional. She is the exact person you want to encounter when staying on a hotel. Her customer service skills are to be commended.",
+        "time": 1772646707,
+        "translated": false
+      },
+      {
+        "author_name": "lydiater",
+        "author_url": "https://www.google.com/maps/contrib/102323906041471778099/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjpS_zEtIn4beRZXtmx-6yZdIvKI4lrDE_ooTCY0y7qG3JZvSh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "One of the best stays I’ve ever had at Radisson. As a VIP guest, I was upgraded to a renovated two-level room, which made the experience even more special.\n\nThe breakfasts were excellent, with a great variety and quality. The hotel features an outdoor pool shared between Radisson Blu and Park Inn, which is a lovely bonus. There’s also a fitness center and an indoor pool connected to the hotels, both complimentary for guests.\n\nAdditionally, the minibar is included once per stay, which is a nice extra touch.",
+        "time": 1772707337,
+        "translated": false
+      },
+      {
+        "author_name": "Flavio Ferrari",
+        "author_url": "https://www.google.com/maps/contrib/112612223544577258569/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-k0pTWoueY20UNqgQcgEuSAFc58RO0xanYxueWnf6UnxNFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Me and my girlfriend stayed in Radisson Blu Bucharest from the 23rd to the 26th of January. It was such an amazing experience from all points of view. All the staff members went anice and beyond to make our stay seamless. At the check-in we were welcomed by Valentina that has quickly registeres us and provided all the information, she was great and helped us during our stay for everything we needed. I would also like to mention the night manager Eric and the receptionist Alina who helped us to confirm a late check out during our last day (we had a late flight). Thanks a lot.\n\nThe executive lounge in the hotel is really amazing and there are exceptional people working there. In particular one staff member stands out, Marius, a very professional employee that was very kind with us and also spoke italian, he made us feel like at home.\n\nIf you are a fit person there is a gym fully equipped with a internal pool and you can also relax inside an amazing esternal heated pool with jacuzzi.\n\nThe cherry on top was the Thai SPA, were we had a couple massage on the last day. The SPA is really great, equipped with everything you may need, very clean and there are very professional therapists there. I strongly suggest reserving a massage during your visit.\n\nFinally, everything about the hotel is 5 out of 5 stars: nice rooms, professional staff, great guest experience, great location. I strongly reccomend staying here if you will visit Bucharest!",
+        "time": 1769430159,
+        "translated": false
+      },
+      {
+        "author_name": "Maya Yulzari",
+        "author_url": "https://www.google.com/maps/contrib/113992314792654380321/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaucDWKnCPJdF3DybWxdALiZ2HIsh7Yefi9MTXvBiHwY9pwQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We had a wonderful stay at Radisson Blu Hotel Bucharest, and we truly can’t recommend it enough.\n\nFrom the moment we arrived, the service was outstanding — professional, warm, and attentive to every detail. The rooms were spotless, beautifully maintained, and extremely comfortable, which made our stay even more enjoyable and relaxing.\n\nA special and heartfelt thank you goes to Madalina Agiu, Lobby Duty Manager, who went above and beyond to make our experience exceptional. Madalina assisted us with everything we needed, always with patience, kindness, and a genuine desire to help. Her service was not only efficient but also incredibly caring and personal, and it truly made a difference in our stay.\n\nIt’s rare to encounter such a high level of hospitality, and thanks to the excellent team — especially Madalina — our stay was memorable in the best possible way.\n\nHighly recommended, and we would happily return again!",
+        "time": 1770190823,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Suzana Ribs & Wings",
+    "rating": 4.5,
+    "total_reviews": 4893,
+    "address": "Calea Rahovei 147-153, 050892 București, Romania",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4214471,
+      "lng": 26.0867617
+    },
+    "reviews": [
+      {
+        "author_name": "FreeMind MUSE",
+        "author_url": "https://www.google.com/maps/contrib/104923409993600166932/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD3FLfwIJEAbTqnUkm4qRaMMv8ZWSaH6wq8AkxcgsKtv6j0AY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "This place has nice texan food and a lot of options! ✅\nThe staff is very polite and attentive.🫶\nI recommend to book in advance if you are a large group because it can get crowded. Definitely we will come back!",
+        "time": 1749285652,
+        "translated": false
+      },
+      {
+        "author_name": "Noel Vassallo",
+        "author_url": "https://www.google.com/maps/contrib/101290878595601769018/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpn5WhdoAIwXTUb287oS6o4tkIJcqAo7MP0xB5qFn4fRmxGpagmw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very good food nice atmosphere and good prices. Really recommend.",
+        "time": 1764999318,
+        "translated": false
+      },
+      {
+        "author_name": "Razvan Neagu",
+        "author_url": "https://www.google.com/maps/contrib/118379039867515145107/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDswCeXH9yOYFtcJ7p2jzdJZdmnEQQM_D2jpVBinSrQPA_vqXp=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice place to eat, been here twice now and on both occasions we ware a large group. Medium to high prices but the portions are great.. you struggle to finish eating everything from the plate.  🙃",
+        "time": 1740126363,
+        "translated": false
+      },
+      {
+        "author_name": "Mariusz Krawczyk",
+        "author_url": "https://www.google.com/maps/contrib/116953170736036124380/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVP-M-WmsxrlkELQW2FKoyf5YZ55btCbO8VYE3I-EYIkCX7kb4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Great place with unique style. In my personal ribs ranking there is a new king. Tried the whiskey ones, they are amazing",
+        "time": 1757855546,
+        "translated": false
+      },
+      {
+        "author_name": "Ioana Anghel",
+        "author_url": "https://www.google.com/maps/contrib/108715243277274991181/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuHiCMhgcKMprn0mpl4_423JMLpwRjV_RLjVHw5YzLIMvbFFi=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "If you want to taste the best ribs in Bucharest this is definitely the place. They are amazing and mouth watering! The design of the place is also very nice and on the country theme. You really need to try the spicy pork ribs 😍🤤🤤. The staff is kind and the serving very fast!",
+        "time": 1572566752,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Cofetăria Armand",
+    "rating": 4.5,
+    "total_reviews": 1145,
+    "address": "Strada Armand Călinescu 25, 021011 București, Romania",
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "meal_delivery",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "location": {
+      "lat": 44.43944279999999,
+      "lng": 26.1088522
+    },
+    "reviews": [
+      {
+        "author_name": "Dana C (Didi)",
+        "author_url": "https://www.google.com/maps/contrib/118070966371894725687/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuxmuhOMDVDSHgeWgHhqcSAhbUddusOaCbwKuREz0SXyuDbrE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "I've purchased twice from this pastry shop and I am pleasantly impressed by the good product quality. The shop is very cute, the packaging as well. The cakes are made with natural ingredients, they taste good and the prices are decent (by comparison with other cake shops that use very low quality ingredients they sell at high quality prices).\nI don't know if they do but I haven't seen yet that they make also other traditional cakes like for eg. Krantz, Ora12, old fashioned éclair with creme patissiere, diplomat, Cabane, Excelent, Indiene etc. (I'm a gourmand 😋).\nKeep it up!",
+        "time": 1771570955,
+        "translated": false
+      },
+      {
+        "author_name": "Dori",
+        "author_url": "https://www.google.com/maps/contrib/110841141307868652605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHfbJwkBfVEaq1ZC4aC2hB5WJRGk3SOmSgTdwT0a3aBaXwsphQAw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I chose this cake shop because they also make products for diabetics and I was not disappointed.\nI bought one cake for diabetics (no sugar, no flour, no refined carbohydrates of any kind) and 8 diet cakes (sugar-free only). I also bought some “normal” mini-cakes, a few of each type, enough to fill a plateau (pick-up on 12.10.2024).\nEverybody liked all the cakes. My diabetic relative said this was the best diabetic cake they had ever tasted.\nThey also have coffee, I will definitely try it next time if I have time.",
+        "time": 1729007906,
+        "translated": false
+      },
+      {
+        "author_name": "Gabriel Buiculescu",
+        "author_url": "https://www.google.com/maps/contrib/117065693742521457977/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfpSX35XChaVQiYAaQ_UDdBSdgvlaaCZvWze7ssN1_0-90bA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I like to buy cookies from this place. They have a good variety of sweets and they are delicious. You should try the pinacolada sweets (small candys from the picture), the variety of eclair with different creams and the  chocolate cakes. Enjoy and follow up for more places to visit and eat 😊",
+        "time": 1614623060,
+        "translated": false
+      },
+      {
+        "author_name": "Freight Legend",
+        "author_url": "https://www.google.com/maps/contrib/117244339845649320811/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXutCoaAfjNVGP5yVYqS-b4__b_x3O19Y4bj6rGhC1i2AcAJw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "A pleasant surprise in an overheated city. Cute designs. Cute colors. Haven't tasted yet the sweets.",
+        "time": 1688741126,
+        "translated": false
+      },
+      {
+        "author_name": "SVC",
+        "author_url": "https://www.google.com/maps/contrib/107972587781577098610/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0F9SPl7ieA9V85HZFQJ3RRd_oev8ahElUYV4gsyI95yyHHw=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Nice central cake shop with many options. Cakes are accessible and consistent, the pastry products are however overpriced. Nice that you can have the cakes at the table there.",
+        "time": 1580021816,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Terminus",
+    "rating": 4.5,
+    "total_reviews": 816,
+    "address": "Strada George Enescu 5, 010301 București, Romania",
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4422504,
+      "lng": 26.094765
+    },
+    "reviews": [
+      {
+        "author_name": "Stace Nelson (Bull)",
+        "author_url": "https://www.google.com/maps/contrib/105053560316980812121/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnX3i9nX4iP9rHYT2DOVhkL062cmP9AxnVQxumzXYqT0bQ2Fxs=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I had the “Bors De Specla Cu Vitel” and the Bucur draft beer! Both were delicious. The pub has a very comfortable setting. Great place to have a bite to eat and something to drink. Very endearing decor.",
+        "time": 1762189240,
+        "translated": false
+      },
+      {
+        "author_name": "Valentina Visarion",
+        "author_url": "https://www.google.com/maps/contrib/105934065748950272268/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMwRLZ5p-_K2JsKtHumNeG522_mZ3WQOlnD0DWN9i3tqLT5fs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "This location is right in the center, but it's little crowded. The menu offers traditional romanian food, but the place is designed in the style of an English pub. The prices are affordable. I recommend it!",
+        "time": 1760398212,
+        "translated": false
+      },
+      {
+        "author_name": "Liam Mclaughlin",
+        "author_url": "https://www.google.com/maps/contrib/102330361545387751120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoglko5O9Er01BTsdpnz5SF39Wz1i0cfpsZEhyuIzX9BlVhJaK=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Another excellent bar in Bucharest friendly staff nice beer 🍺 in a very familiar British bar setting. Once again this bar does food including British Food, it was too early to eat. All I can say is I was made welcome and I enjoyed this bar which is right across from a really nice Orthodox Church.",
+        "time": 1754839210,
+        "translated": false
+      },
+      {
+        "author_name": "Gautier Briard",
+        "author_url": "https://www.google.com/maps/contrib/111555563024941521737/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUE4gsTX7NOFFMZdnkQJ5EqjerNoGMvrmJg2HSuVJcSHt4mg5M-1A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We brought 30 people tonight from Bucharest Digital Nomads meet-up and Maria was there to serve us all on top of the classical customers.\n\nThanks to Maria's energy and amazing care we had an amazing time. Everyone was thankful.\n\nMulțumesc Maria !!!!",
+        "time": 1761688073,
+        "translated": false
+      },
+      {
+        "author_name": "Preslava Ilieva - Gabarska (Преслава Илиева-Габърска)",
+        "author_url": "https://www.google.com/maps/contrib/107774702938165762189/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGSIFJCd8dH8TBHpFwl9GPpVekKbG4H8sriLJrpmR7dhpRJovy=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very helpful and nice staff speaking english. The food was delicious in big portions. We were a group of 8 people and everything we ordered was very fast prepared. We tried the beer Bucur and it was very nice! Definitely recommend this place!",
+        "time": 1712404323,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Excalibur",
+    "rating": 4.4,
+    "total_reviews": 10073,
+    "address": "Demisol, Strada Academiei 39-41, 010013 București, Romania",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4380672,
+      "lng": 26.0979577
+    },
+    "reviews": [
+      {
+        "author_name": "Robyn Simmons",
+        "author_url": "https://www.google.com/maps/contrib/116018133435489548589/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXecLEw9h2tk9cAKZMYlODxz8Q4iZOMJERJzJF226VuifayC1FE=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "A really fun restaurant with fantastic decor. It is a real novelty. The portions are gigantic! There are a few veggie options alongside the massive hunks of meat, which us nice. The service was great and Samile (sp??) was fantastic, really attentive and helpful.",
+        "time": 1772655944,
+        "translated": false
+      },
+      {
+        "author_name": "Eden Grosman",
+        "author_url": "https://www.google.com/maps/contrib/102517162582053837490/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW7N-GMT9JZQeyONbDoVluufN_ROp_oK2aeqCfiftk8DsrybN9OQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "I came with high expectations and was SO DISAPPOINTED.  Food was BAD, and Im not used of writing bad reviews but this has to be said.\nI ordered the steak for 150 lei(!). Asked for a medium, the steak came well-done. Told the waiter, he brought me a new one, completely raw.\nMy friends ordered the plate for two, also ended up disappointed by the unseasoned food.\nGreat decor, but definitely won't come back.",
+        "time": 1771542640,
+        "translated": false
+      },
+      {
+        "author_name": "rob biggers bignell",
+        "author_url": "https://www.google.com/maps/contrib/110342318739094591900/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpRhMm4eYea6u5SXqn7pNVzifTnJd9oX7QKmab55RMyUETDw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Last night we went to this amazing restaurant\nThe set dressing was great with the swords and suits of armour\nThe food well I could only eat the meat on my plat so much food ( had to leave room for desert that was also gigantic)\nWe had a great time\nThank you to all the staff\nWELL WORTH A VISIT\nIts so tacky its fantastic\nBe carefully its probably best to share a meal, due to the fact my partner is a veggie we had 2 separate dishes, no way could we eat more than 1/3 of the dish and im no lightweight",
+        "time": 1772685063,
+        "translated": false
+      },
+      {
+        "author_name": "mehrak rahmanian",
+        "author_url": "https://www.google.com/maps/contrib/104037198843285097507/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyh2NFirJaRmQV8rwyBNa6cwh7YoYQ2RiRNWGlmbGuEIY-Auv9=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Well well well… the portion of the food is their strong point… the rabbit was good!!! i didnt like my papanași… not puffy, not creamy… not recommanded…the fish was steamed and not fried so not recommanded either… the schnitzel was so and so… hey by the way this is the second time that i was here… just adding the photo and video but i dont remember how good it was",
+        "time": 1772294790,
+        "translated": false
+      },
+      {
+        "author_name": "Lux Living",
+        "author_url": "https://www.google.com/maps/contrib/110536919994332293175/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK25z0l_531Ar-yvIm6ACKNG-fx7C8-_FYPtRj_zmRU2Zyu2g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "To be honest the environment takes you down the medieval age.. full of life even on weekdays and the whole ambience is crazy lively with full on music. Unfortunately my whole chicken came out super dry..which did a bit but guess what upon being informed they decided not to charge us for the dry chicken which clearly shows they really care for customer experience. My boyfriend loved his food so am not gonna deduct any points although the chicken was bad. I really believe in second chances and the tables around me mentioned chicken were juicy so probably I came upon a dead one 😅\nI believe the accountability and the whole experience like eating a bunch of food like in medieval times with hands other than cutlery made all the atmosphere.. was actually nice! For the food.. I believe i was a one off and they took charge.. so I got nothing than to appreciate this amazing lovely place!!",
+        "time": 1760470042,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Vatra",
+    "rating": 4.4,
+    "total_reviews": 6148,
+    "address": "Strada Ion Brezoianu 19, 010131 București, Romania",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.435296,
+      "lng": 26.0945887
+    },
+    "reviews": [
+      {
+        "author_name": "Alon Segal",
+        "author_url": "https://www.google.com/maps/contrib/114051048964483930198/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqW3WfenCeGJWL8esQmJDFD_5HUVmHO5G5H90MM9UWJWPRDg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We had such a wonderful experience at Vatra. From the moment we walked in, the warm and traditional Romanian atmosphere made us feel right at home. The menu offers a great variety of classic local dishes, and every plate we tried was full of rich, authentic flavor. The portions were generous and beautifully presented.\n\nThe staff were friendly and attentive, making great recommendations and ensuring we enjoyed every moment. A special highlight of the evening was the beautiful live folk dance performance, which added so much charm and authenticity to the experience and enjoing the Romanian culture, in addition for having great dinner.\n\nWe highly recommend this place to anyone looking for delicious traditional Romanian food and a memorable evening in Bucharest.",
+        "time": 1771316042,
+        "translated": false
+      },
+      {
+        "author_name": "Yevgen Deli",
+        "author_url": "https://www.google.com/maps/contrib/109753916441067626305/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkA-O2W58u9Vu50RXylGAYbDOmGPZEc9mlXzpWr40oSYaBmA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Even though we didn’t have a reservation on Sunday afternoon, the staff accommodated us right away and we enjoyed a very pleasant and tasty lunch.\nThe atmosphere was cozy and comfortable, with traditional music playing in the background. The menu offers a good variety of traditional Romanian dishes.\nWe tried several items — appetizers, soup, main courses, and desserts — and everything was fresh and delicious. Portions were generous, and we even had to take some food to go.\nThe total bill was 790 RON, including a 10% tip. Definitely worth a visit.",
+        "time": 1769970575,
+        "translated": false
+      },
+      {
+        "author_name": "Foodie Traveler",
+        "author_url": "https://www.google.com/maps/contrib/102932902970517242005/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_EnSgIrQhgBkeuZgrKVfWLInLVZCAISjuEHNei4jRf7t78N4=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "If you ever find yourself wandering the charming streets of Bucharest with a hungry stomach and a curious spirit, do yourself a favor and make a beeline for Vatra. We actually stumbled in for a very practical reason at first. It was within easy walking distance of where we were staying. But what started as a convenient dinner plan quickly turned into one of the most memorable meals of our trip.\n\nFrom the moment we stepped inside, the place had that warm, welcoming energy that instantly puts you at ease. The décor leans into traditional Romanian charm without feeling like a staged tourist trap. Think cozy, rustic, and lively in just the right proportions. It felt like being invited into someone’s very well-decorated countryside home, if that home also happened to serve fantastic food.\n\nThe service deserves a special shout-out. Our server was genuinely friendly in a way that felt natural rather than rehearsed. You know the difference. They were attentive without hovering, helpful without being pushy, and happy to answer our questions about the menu. There was a relaxed confidence in the way the staff operated that made the whole evening feel smooth and comfortable.\n\nNow let’s talk about the real star of the show: the food. Simply put, it was delicious. Not just good-for-the-area good, but the kind of flavorful, satisfying cooking that makes you pause mid-bite and nod approvingly to whoever you’re dining with. Every dish we tried felt thoughtfully prepared and full of rich, comforting flavors. Portions were generous too, which is always a welcome bonus when you arrive hungry after a day of exploring the city.\n\nWhat really elevated the experience, though, was the atmosphere, especially if you visit on the weekend. We were lucky enough to be there when they had live traditional dancing, and it completely transformed the evening. Instead of just being a nice dinner, it became an experience. The music, the movement, the energy in the room. It all came together in a way that felt festive but not overwhelming.\n\nWatching the dancers while enjoying a hearty meal added a layer of cultural flavor you simply cannot replicate in a quieter restaurant setting. It made the night feel extra special, like we had accidentally wandered into a celebration rather than just booked dinner. Even guests around us seemed more animated and cheerful once the performances began.\n\nAnother thing worth mentioning is that despite the lively entertainment, the restaurant never felt chaotic. The staff kept everything running smoothly, and we never felt rushed. It struck a lovely balance between vibrant and comfortable, which is harder to achieve than it looks.\n\nIf I had to sum it up, Vatra is one of those places that surprises you in the best possible way. We came because it was convenient, but we would absolutely go back on purpose. Friendly service, genuinely delicious food, and weekend dancing that adds a sparkle to the whole evening. It checks all the boxes for a memorable night out in Bucharest.\n\nNext time we’re in the city, this spot is already on our must-return list. If you’re nearby and debating where to eat, save yourself the scrolling and just go. Your future well-fed self will thank you.",
+        "time": 1772391818,
+        "translated": false
+      },
+      {
+        "author_name": "Paula Gomez",
+        "author_url": "https://www.google.com/maps/contrib/106461782063407235402/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMbqKUNVwNIZgbvgdl4VeVCXPRnEwke2zO3EFg9FMzk0eR7g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Although we didn’t have a reservation, they were able to accommodate us. We had a wonderful dining experience at Vatra Restaurant in downtown Bucharest.\n\nThe restaurant has a warm, traditional atmosphere that immediately makes you feel welcome. It is a great place to experience authentic Romanian cuisine in a comfortable and inviting setting.\n\nThe staff were attentive, friendly, and very helpful, offering excellent service throughout our visit. The menu provides a great selection, and the food was beautifully prepared and full of flavor.\n\nVatra is a fantastic choice for anyone looking to enjoy quality local food in the heart of Bucharest, and we would happily recommend it to visitors.",
+        "time": 1768630373,
+        "translated": false
+      },
+      {
+        "author_name": "Ronny Barkan",
+        "author_url": "https://www.google.com/maps/contrib/109320124578404207783/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGL2hNMoMxILhmsdCsRgJDqJ1sl_q369yAcPwu93RRGoeAkXFj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Wow!!!\n\nTo summarize it shortly: We have went to two other famous Romanian traditional restaurants (Caru Cu Bere and Hanu Lui Manuc), and this is by far the best Romanian restaurant we went to.\nIt just feels likes a traditional Romanian family with an amazing taste and decades of experience invited us for a traditional dinner in their home.\n\nEvery dish we ordered was simply top notch: fresh, warm, rich in taste, generous and made with love.\n\nThe soups are incredible, and the sour chicken soup was one of the best dishes I had in this trip.\nThe kebab was \"the best kebab I have ever had\", according to my brother.\nThe traditional meals of the rolled meat in the sour cabbage and the chicken in the grape leaves were my favorites, and I just couldn't leave a single bite on the plate.\n\nEven the home wine was both delightful and generous in its portion.\n\nI had low expectations when we cane here, because currently it is ranked 4.4 in Google which is similar to the other restaurants I mentioned ablve, to which we had went a few days before, and were no more than OK for us. But this restaurant was by far better, and also with lower prices.\n\nThis is the best restaurant in Bucharest for traditonal Romanian food, don't miss it!",
+        "time": 1763403106,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "St. Patrick Irish Pub - Berarie & Sports Bar",
+    "rating": 4.3,
+    "total_reviews": 7694,
+    "address": "Strada Smârdan, 23-25, 030072 București, Romania",
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "night_club",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4314877,
+      "lng": 26.0997243
+    },
+    "reviews": [
+      {
+        "author_name": "Graeme Undy",
+        "author_url": "https://www.google.com/maps/contrib/117069519126074637611/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp-wlw9uRQSbiZaoOLBLs-McFLteJiYJRBP3F8OuoZpxzCvA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "If you don’t visit you’re missing the best part of Bucharest old town!\n\nWhat a night, great food, fantastic service and superb staff and team.\n\nThe Guinness is like being in Temple Bar, the range of drinks is plentiful and lots of room to relax, drink and eat whilst watching your favourite sports!\n\nIzabela, one of the friendliest barmaids and servers in Bucharest, went well beyond what’s expected and made sure our party was well looked after and enjoyed a great night!\n\nWe will be back again, fantastic team and great atmosphere!",
+        "time": 1767886642,
+        "translated": false
+      },
+      {
+        "author_name": "Heidi Lewis-Burrell",
+        "author_url": "https://www.google.com/maps/contrib/110660605198310842636/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIylrLflNxerRYU18MAT8PpxlK8y3hW6udl7hwKlUdX8i5Bjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Had a lovely meal here and importantly for me, Andrei, one of the people who worked there was knowledgeable about the gluten free options. Music was great and it had a lovely warm atmosphere. Would happily visit again",
+        "time": 1772977576,
+        "translated": false
+      },
+      {
+        "author_name": "Our adventures Around",
+        "author_url": "https://www.google.com/maps/contrib/109461385704615692153/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNcCTt0B8mPJW8qn7cwYfFhVpvYsd4rT8li3Z5xPYKyprLCBSa=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Fantastic again,\n\nAndrei was an absolute legend ensuring our party was well looked after.\n\nFood fantastic quality, hot full of flavour and 9 meals served quickly and promptly.\n\nGuinness is like you get in Dublin but for half the price, food is great quality and a simple menu allows for all tastes.\n\nGreat food, staff and atmosphere well worth a visit and enjoy some fantastic food.",
+        "time": 1768157544,
+        "translated": false
+      },
+      {
+        "author_name": "Florentina Militaru",
+        "author_url": "https://www.google.com/maps/contrib/114110626164210617926/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5I2htS4E2IMcr48DunsIPMMQfayKGsBWYMtI3c37P3hHMlriXhw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We knew exactly where we're coming. They have the best guinness beer and the food is amazing. The pork ribs were excellent 👌🏻 and the irish coffee, simply tastefull. To not forget about Vio's service, amazing host.",
+        "time": 1763928783,
+        "translated": false
+      },
+      {
+        "author_name": "Nabin Sharma",
+        "author_url": "https://www.google.com/maps/contrib/102529477799156488246/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVe1Uul3MPQ6oKldnZIklZkiG7OtV7DlURce72LSyBXCuvWiI8CxQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "Good service and friendly staff, but the food was fairly basic overall. The pizza was good, though. I was surprised that tipping seemed compulsory, is that a standard here?",
+        "time": 1766350028,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Jos Pălăria",
+    "rating": 4.3,
+    "total_reviews": 897,
+    "address": "Strada Toma Caragiu 3, 030042 București, Romania",
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4345599,
+      "lng": 26.101453
+    },
+    "reviews": [
+      {
+        "author_name": "Engin Çebi",
+        "author_url": "https://www.google.com/maps/contrib/107500498879027636112/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4z9lT-_4s5UrqRSW54Ygve2In72h9aOyj1lgyJjGhNR96EpRBtw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Food were delicious however it took more than 45 minutes to serve a pizza and a simple chicken plate despite the fact that the restaurant was not crowded. The waiter did not speak nor understand English therefore had difficulties at ordering the food.",
+        "time": 1730926688,
+        "translated": false
+      },
+      {
+        "author_name": "Borislava Pavlova",
+        "author_url": "https://www.google.com/maps/contrib/111778928343478071443/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUilDtx0N5IGY8KajQ7NazXbaTyFHF_q3SFS54jIIrftxtLwbv_=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Very poor service.\nWe arrived at 9:00 pm on New Year’s Eve and ordered a salad, two burgers, carbonara, a mixed chicken plate, and bruschetta with salmon. The waiter later came back to say they didn’t have bread for the bruschetta, so it couldn’t be made. Not a big deal-we agreed and moved on.\nWe waited about an hour for the food. Given that it was NYE, we stayed patient, even though the restaurant wasn’t that busy (around 20 tables total, at least half of them only ordering drinks-they have at least 20 tables more which-if you cannot handle this much of a people-why even..).\nThe real problems started after that. My dish-the mixed chicken plate-never arrived. The waiter claimed he had already told us it wasn’t available when he mentioned the bruschetta, which simply isn’t true. There were four of us at the table, and none of us heard that.\nAt that point I was very hungry, having waited an hour already, so I ordered a burger instead. I was told it would take 30 minutes. I agreed because I had no other option. One hour later, I still had no food.\nAt 11:10 pm we asked what was going on and were told we would need to wait another 30 minutes. By then, I had been sitting there for two hours without eating, while everyone else at the table had already finished. It was clear I might not get food at all.\nWhat made the experience even worse was the staff’s attitude. When we complained, the waiter said, “Leave us a bad review, I don’t care.” No offer of compensation, discount, or even a complimentary item for the inconvenience.\nFinal note: if you’re thinking of going here, make sure you have several hours to spare-and a lot of patience.",
+        "time": 1767256330,
+        "translated": false
+      },
+      {
+        "author_name": "ESTER RUTH CIVETTINI",
+        "author_url": "https://www.google.com/maps/contrib/116446619201261135187/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfXi2uQDtesUOxpol0l5XWY9Xu2KjyDw4FxRgWPFTDAplqiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "We stopped in this bar to chill before our ride to the airport and we had a bad experience: all the staff, from the beginning, kept looking at us like we did something bad and acted like they wanted us to go away asap. We were not rude or did not consume (we took 3 beers, 1 smoothie, 1 drink and 1 frappe). Unnecessarily rude and we felt unwanted.",
+        "time": 1770602649,
+        "translated": false
+      },
+      {
+        "author_name": "Тетяна",
+        "author_url": "https://www.google.com/maps/contrib/107849260882368519967/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb0Z9iL1yjyg3hjYGIwtvWK-RWa7rc6KhvBiY5c3YvxGX1iBXj=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "8 months ago",
+        "text": "So delicious bruschetta\n\nThe dessert was Chocolate fondant with chocolate topping\nThe cupcake was baked and the “confectioner” decided to make chocolate lava with the chocolate topping. This is a scam and it's NOT TASTY",
+        "time": 1756377568,
+        "translated": false
+      },
+      {
+        "author_name": "Brett McMahan",
+        "author_url": "https://www.google.com/maps/contrib/109446742658071484616/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIv9HEcQtcNOq6OKq6iHaCBAJGAI4QLJnrguEMPiEw1M2ZKUgI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I was here on an early afternoon. Not too busy so the service was good.  Food was great. Had the Bruschetta cu prosciutto crudo.  Quite tasty.  Just what brettandbear needed to continue the journey.  Was going to order more food but what was served was a perfect amount for a solo traveler.",
+        "time": 1724931194,
+        "translated": false
+      }
+    ]
+  },
+  {
+    "name": "Gargantua Anniversaire",
+    "rating": 4.3,
+    "total_reviews": 475,
+    "address": "Strada Icoanei 2, 020456 București, Romania",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "location": {
+      "lat": 44.4426857,
+      "lng": 26.1052393
+    },
+    "reviews": [
+      {
+        "author_name": "cristian robert",
+        "author_url": "https://www.google.com/maps/contrib/110153642740628167675/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7aSxtPkKxhzk2WvqRfa8bAL-wKz3Iv2VA8NKs70iE8G5x6w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The restaurant in very nice, it's a little small but cozy and romantic. The waiters were very friendly and the service was nearly perfect. Not too expensive, would recommend.",
+        "time": 1644867843,
+        "translated": false
+      },
+      {
+        "author_name": "Adriana Soroceanu",
+        "author_url": "https://www.google.com/maps/contrib/109024794538359780307/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOrPUwD5vI0FWbLORyz8k7elx5e6De7mGr4qxVbKl3EPNZh5w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "We were here attending a private event, and I was very pleasantly surprised. It was intimate, and the music was not too loud, so you could comfortably speak to all people around the table. The food selection was great, and the drinks were as well. I particularly liked their wine selection. It is worth mentioning that the restaurant has an amazing view of the park on the terrace (we were there in the winter and could see all the lights in the park!)",
+        "time": 1676151826,
+        "translated": false
+      },
+      {
+        "author_name": "Remus Constantin",
+        "author_url": "https://www.google.com/maps/contrib/101020944425620396044/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeFI5NZ9YJKvP06-HKlV3r-JX_tRCGuVMA3vAlwJTOcm2-Mk3w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "This is a well-known restaurant, but every time I visit I wonder why is it so popular.\nI visit them approx once a year just to check them out and each time the food is a disappointment especially for the price and the cocktails are average (even if they use top shelf spirits).\nService was excellent and I almost felt sorry for the waiter, his skill seemed like a waste for the food he was serving.\nEverything in the menu screams \"average\" with occasional really bad dishes. I don't know how they manage to do this constantly, it's been like this for years.\nThis time I was \"lucky\" to taste an average burger with a really fancy title, really gross liver on grill (my wife even got a bit sick, although she eats this dish constantly from other places. I understand it's called \"fresh liver\", but I don't expect it to moo on the plate, we had to ask to grill it again and still was not enough), bruschetta was actually a bland supermarket bread with seeds, crust so hard it hurt my gums and the dessert was average at best. All cooking times were very long.\nWell, see you next year, I guess.",
+        "time": 1668635345,
+        "translated": false
+      },
+      {
+        "author_name": "GK",
+        "author_url": "https://www.google.com/maps/contrib/117399324876706412329/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVygYK8VWDeak93nWDzgL5mzDxF-LRaSPZGgDogrL77_FLWBRmDbw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 years ago",
+        "text": "It is the second time we felt a little stomach sick after eating here.\n\nI recommend the terrace during summer and the heated terrace during winter because the indoor smell of the restaurant feels unfresh and oily and becomes slightly present in clothes as well.\n\nThe kitchen is placed right next to the toilets at the basement. This summer I noticed a woman smoking right at the kitchen door - she was a kitchen employee. Yesterday there were manele playing loud from the kitchen. I believe these experiences are strongly contrasting to the atmosphere and prices upstairs.\n\nThe service was great, polite and kept attention to details.\n\nLocation is great as well, placed right inside Gradina Icoanei park.\n\nI had good experiences in the past, but now I believe Gargantua needs to pay most of its attention to its food quality, to refreshing its interior and find a solution to its not so welcoming basement area.",
+        "time": 1702112781,
+        "translated": false
+      },
+      {
+        "author_name": "Liliana D.",
+        "author_url": "https://www.google.com/maps/contrib/116756299891192230614/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH3WsiZgHScpd8eSNhRvA35n1JlGHAN-BYTgwo4ogtafewU-0d=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "The great location and cosy, elegant setting inside, is not sustained by the service.\nMy dish was looking great (Shrimp tartar with avocado, mango and carrot) but unfortunately tasteless.",
+        "time": 1683478633,
+        "translated": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Caru' cu bere",
+    "rating": null,
+    "total_reviews": null,
+    "address": "",
+    "lat": 44.4320175,
+    "lng": 26.0981207,
+    "reviews": [],
+    "url": "https://www.google.com/maps/place/Caru%27+cu+bere/data=!4m7!3m6!1s0x40b1ff406bde77c1:0xca85c319d658a754!8m2!3d44.4320175!4d26.0981207!16s%2Fm%2F010wh6dt!19sChIJwXfea0D_sUARVKdY1hnDhco?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Restaurant Hanu' lui Manuc",
+    "rating": null,
+    "total_reviews": null,
+    "address": "",
+    "lat": 44.4297202,
+    "lng": 26.1023053,
+    "reviews": [],
+    "url": "https://www.google.com/maps/place/Restaurant+Hanu%27+lui+Manuc/data=!4m7!3m6!1s0x40b1ff3e27182fb5:0xd644eea8957dfee2!8m2!3d44.4297202!4d26.1023053!16s%2Fg%2F12xq0vs55!19sChIJtS8YJz7_sUAR4v59lajuRNY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Nor Sky Casual Restaurant",
+    "rating": null,
+    "total_reviews": null,
+    "address": "",
+    "lat": 44.4781754,
+    "lng": 26.1047066,
+    "reviews": [],
+    "url": "https://www.google.com/maps/place/Nor+Sky+Casual+Restaurant/data=!4m7!3m6!1s0x40b20270a872cf5b:0xe75911cccef5dcdf!8m2!3d44.4781754!4d26.1047066!16s%2Fg%2F11dzdksg3z!19sChIJW89yqHACskAR39z1zswRWec?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "AveForchetta",
+    "rating": null,
+    "total_reviews": null,
+    "address": "",
+    "lat": 44.4361334,
+    "lng": 26.0963941,
+    "reviews": [],
+    "url": "https://www.google.com/maps/place/AveForchetta/data=!4m7!3m6!1s0x40b1ffa5d863131f:0x4b125bc9060790c!8m2!3d44.4361334!4d26.0963941!16s%2Fg%2F11j_2c57dh!19sChIJHxNj2KX_sUARDHlgkLwlsQQ?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Trattoria Garibaldi",
+    "rating": null,
+    "total_reviews": null,
+    "address": "",
+    "lat": 44.4214849,
+    "lng": 26.098534,
+    "reviews": [],
+    "url": "https://www.google.com/maps/place/Trattoria+Garibaldi/data=!4m7!3m6!1s0x40b1ff227532d583:0xa1f6452490f22dc4!8m2!3d44.4214849!4d26.098534!16s%2Fg%2F11q1dh4k5t!19sChIJg9UydSL_sUARxC3ykCRF9qE?authuser=0&hl=en&rclk=1"
+  }
+]
